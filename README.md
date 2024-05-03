@@ -1,2 +1,2 @@
 # python_javoblar
-Mohirdev saytidagi "Dasturlash asoslar. Python" kursining amaliy topshiriqlariga javoblarim joylangan.
+Mohirdev saytidagi "Dasturlash asoslari. Python" kursining amaliy topshiriqlariga javoblarim joylangan.
